@@ -17,14 +17,14 @@ export default {
 }
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Poppins', sans-serif;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
 
 #app {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Poppins', sans-serif;
   color: #2c3e50;
 }
 
@@ -33,5 +33,4 @@ main {
   width: 100%;
   display: flex;
 }
-
 </style>
